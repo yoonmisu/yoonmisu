@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fff79e,100:fffafa&height=120&text=Welcome%20to%20Misu's%20Github%20♡&animation=twinkling&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 😊 배우며 성장하는 윤미수 입니다 !! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Think different and Think positive </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 😊 배우며 성장하는 윤미수 입니다 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> "Think different and Think positive" </div> 
     </div> <br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩‍💻 Tech Stacks </h2> 
