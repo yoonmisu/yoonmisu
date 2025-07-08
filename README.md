@@ -21,7 +21,7 @@
       <div style="text-align: left;">
         <img 
           src="https://github-readme-stats.vercel.app/api?username=yoonmisu&custom_title=yoonmisu's%20GitHub%20Stats&bg_color=ffffff&title_color=000000&text_color=000000" 
-          alt="yoonmisu's GitHub Stats"
+          alt="misu's GitHub Stats"
         />
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmisu&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" 
