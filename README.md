@@ -20,7 +20,7 @@
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌟 Stats </h2>
       <div style="text-align: left;">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=yoonmisu&custom_title=yoonmisu's%20GitHub%20Stats&bg_color=ffffff&title_color=000000&text_color=000000" 
+          src="https://github-readme-stats.vercel.app/api?username=yoonmisu&custom_title=misu's%20GitHub%20Stats&bg_color=ffffff&title_color=000000&text_color=000000" 
           alt="misu's GitHub Stats"
         />
         <img 
