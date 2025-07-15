@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffe4e1,100:fffafa&height=120&text=Welcome%20to%20Misu's%20Github%20♡&animation=twinkling&fontColor=000000&fontSize=40" />
     </div><br>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Hi! I'm Misu</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <h4>안녕하세요😊 가장 작은 것부터 배우며 매일 조금씩 성장하고 있는 윤미수 입니다!</h4> <em>"Think different and Think positive"</em></div> 
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Hi! I'm Misu</h1>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <h3>안녕하세요😊 가장 작은 것부터 배우며 매일 조금씩 성장하고 있는 윤미수 입니다!</h3> <em>"Think different and Think positive"</em></div> 
     </div> <br><br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Tech stacks </h2> 
@@ -33,13 +33,9 @@
     <div style="text-align: left;"> 
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✅ Solved.ac </h2>
       <div style="text-align: left;">
-        <a href="https://solved.ac/ymisu" target="_blank">
-    <img 
-      src="http://mazassumnida.wtf/api/generate_badge?boj=ymisu" 
-      alt="Solved.ac Profile"
-      style="max-width: 100%; height: auto;"
-    />
-  </a>
+        <p><a href="https://solved.ac/ymisu">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymisu" alt="Solved.ac프로필">
+        </a></p>
       </div><br>
     </div>
     
