@@ -23,7 +23,7 @@
           src="https://github-readme-stats.vercel.app/api?username=yoonmisu&custom_title=Misu's%20GitHub%20Stats&bg_color=ffffff&title_color=000000&text_color=000000" 
           alt="Misu's GitHub Stats"
         />
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmisu&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" 
           alt="Top Languages"
