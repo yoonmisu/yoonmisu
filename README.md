@@ -19,7 +19,7 @@
     </div><br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✨ Stats </h2> <div align= "center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yoonmisu&layout=compact&bg_color=180,00000000,00000000&title_color=ffc2c2&text_color=ffc2c2&show_icons=true&custom_title=Misu's%20GitHub%20Stats" alt="Misu's GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=yoonmisu&layout=compact&bg_color=180,00000000,00000000&title_color=ffc2c2&text_color=ffc2c2&show_icons=true&icon_color=ff91a4&custom_title=Misu's%20GitHub%20Stats" alt="Misu's GitHub Stats">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmisu&layout=compact&bg_color=180,00000000,00000000&title_color=ffc2c2&text_color=ffc2c2"
           /> </div> 
