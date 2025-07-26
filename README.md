@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ffffff,100:fcfcfc&height=120&text=Welcome%20to%20%20Misu's%20Github&animation=fadeIn&fontColor=ffd1d1&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi! I'm Misu </h1>  
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👩‍💻 Hi! I'm Misu </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <h3>안녕하세요😊 가장 작은 것부터 배우며 매일 조금씩 성장하고 있는 윤미수 입니다!</h3>
         "Think different and Think positive" </div> 
     </div><br><br>
@@ -30,5 +30,5 @@
         <p><a href="https://solved.ac/ymisu">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymisu" alt="Solved.ac프로필">
         </a></p>
-      </div><br>
+      </div>
     </div>
