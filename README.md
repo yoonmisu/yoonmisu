@@ -20,10 +20,9 @@
     </div><br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✨ Stats </h2> <div align= "center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yoonmisu&layout=compact&bg_color=180,00000000,00000000&title_color=e9ffde&text_color=f3ffea&show_icons=true&icon_color=e9ffde&theme=dark&custom_title=🌱Misu's%20GitHub%20Stats" alt="Misu's GitHub Stats">
-        &nbsp;&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmisu&layout=compact&bg_color=180,00000000,00000000&title_color=e9ffde&text_color=f3ffea&theme=dark"
-          /> </div> 
+        <img src="https://github-readme-stats.vercel.app/api?username=yoonmisu&layout=compact&show_icons=true&theme=dark&custom_title=🌱Misu's%20GitHub%20Stats&custom_theme=%7B%22background%22%3A%22000000%22%2C%22title%22%3A%22e9ffde%22%2C%22text%22%3A%22f3ffea%22%2C%22icon%22%3A%22e9ffde%22%7D" alt="Misu's GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmisu&layout=compact&theme=dark&custom_theme=%7B%22background%22%3A%22000000%22%2C%22title%22%3A%22e9ffde%22%2C%22text%22%3A%22f3ffea%22%7D"alt="Most Used Languages" />
     </div><br>
     <div style="text-align: left;"> 
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✅ Solved.ac </h2>
