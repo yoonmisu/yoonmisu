@@ -3,7 +3,7 @@
     </div>
     <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <h3>안녕하세요😊 가장 작은 것부터 배우며 매일 조금씩 성장하고 있는 윤미수 입니다!!</h3>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <h3>안녕하세요😊 가장 작은 것부터 배우며 매일 조금씩 성장하고 있는 윤미수 입니다!</h3>
         <em>"Think different and Think positive"</em> </div>
     </div>
     <div style="text-align: left;">
