@@ -3,11 +3,14 @@
     </div>
     <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <h3>안녕하세요😊 가장 작은 것부터 배우며 매일 조금씩 성장하고 있는 윤미수 입니다!!</h3>
-        <em>"Think different and Think positive"</em> </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+        <h3>안녕하세요😊 가장 작은 것부터 배우며 매일 조금씩 성장하고 있는 윤미수 입니다!!</h3>
+        <p>아름다움을 넘어 더 나은 사용자 경험을 위해 고민하는 <b>디자이너</b> & 그 디자인을 섬세하게 구현하는 <b>프론트엔드 개발자</b>가 되기 위해 공부하고 있습니다</p>
+        <br/>
+    </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> # Tech Stack </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> # Tech Stack </h2>
     <div  align= "center">
           <h3>📖 Studying</h3>
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -33,6 +36,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=yoonmisu&layout=compact&show_icons=true&theme=dark&custom_title=🌱Misu's%20GitHub%20Stats&custom_theme=%7B%22background%22%3A%22000000%22%2C%22title%22%3A%22e9ffde%22%2C%22text%22%3A%22f3ffea%22%2C%22icon%22%3A%22e9ffde%22%7D" alt="Misu's GitHub Stats" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmisu&layout=compact&theme=dark&custom_theme=%7B%22background%22%3A%22000000%22%2C%22title%22%3A%22e9ffde%22%2C%22text%22%3A%22f3ffea%22%7D"alt="Most Used Languages" />
+    <br/>
     </div>
     <div style="text-align: left;"> 
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> # Solved.ac </h2>
