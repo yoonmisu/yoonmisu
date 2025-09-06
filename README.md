@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ffffff,100:fcfcfc&height=120&text=Welcome%20to%20%20Misu's%20Github&animation=fadeIn&fontColor=e9ffde&fontSize=50&shadowColor=000000&shadowBlur=10&shadowOffsetX=1&shadowOffsetY=1"/>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ffffff,100:fcfcfc&height=120&text=Welcome%20to%20%20Misu's%20Github&animation=fadeIn&fontColor=90EFBB&fontSize=50&shadowColor=000000&shadowBlur=10&shadowOffsetX=1&shadowOffsetY=1"/>
     </div>
     <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2>
@@ -7,16 +7,25 @@
         <em>"Think different and Think positive"</em> </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> # Studying </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> # Tech Stack </h2> <br> 
+    <div  align= "center">
+          <h3>📖 Studying</h3>
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <br/>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <br/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+          </div>
+          <div  align= "center">
+          <h3>🛠️ Tool</h3>
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=Photoshop&logoColor=blue">
+          <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=Illustrator&logoColor=orange">
+          <br/>
+          <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
           </div>
     </div>
     <div style="text-align: left;"> 
