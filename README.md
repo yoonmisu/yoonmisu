@@ -1,11 +1,11 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0D1116&height=130&text=Welcome%20to%20%20Misu's%20Github&animation=fadeIn&fontColor=C2E7C4&fontSize=50&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0D1116&height=130&text=🌱%20Welcome%20to%20%20Misu's%20Github&animation=fadeIn&fontColor=FFFFFF&fontSize=50&section=header"/>
     </div>
     <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
         <h3>안녕하세요😊 가장 작은 것부터 배우며 매일 조금씩 성장하는 윤미수 입니다!</h3>
-        <p>아름다움과 더 나은 사용자 경험을 위해 고민하고 그 디자인을 섬세하게 구현하는 <b>디자이너 & 프론트엔드 개발자</b>가 되기 위해 공부하고 있습니다</p>
+        <p>아름다움과 더 나은 사용자 경험을 위해 고민하고, 섬세하게 구현하는 <b>디자이너 & 프론트엔드 개발자</b>가 되기 위해 공부하고 있습니다</p>
         <br/>
     </div>
     </div>
