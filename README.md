@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0D1116&height=130&text=🌱%20Welcome%20to%20%20Misu's%20Github&animation=fadeIn&fontColor=FFFFFF&fontSize=50&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0D1116&height=130&text=🌱%20Welcome!&animation=fadeIn&fontColor=FFFFFF&fontSize=50&section=header"/>
     </div>
     <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2>
@@ -33,7 +33,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> # Stats </h2> <div align= "center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yoonmisu&layout=compact&show_icons=true&theme=dark&custom_title=🌱Misu's%20GitHub%20Stats&custom_theme=%7B%22background%22%3A%22000000%22%2C%22title%22%3A%22e9ffde%22%2C%22text%22%3A%22f3ffea%22%2C%22icon%22%3A%22e9ffde%22%7D" alt="Misu's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yoonmisu&layout=compact&show_icons=true&theme=dark&custom_title=yoonmisu's%20GitHub%20Stats&custom_theme=%7B%22background%22%3A%22000000%22%2C%22title%22%3A%22e9ffde%22%2C%22text%22%3A%22f3ffea%22%2C%22icon%22%3A%22e9ffde%22%7D" alt="Misu's GitHub Stats" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmisu&layout=compact&theme=dark&custom_theme=%7B%22background%22%3A%22000000%22%2C%22title%22%3A%22e9ffde%22%2C%22text%22%3A%22f3ffea%22%7D"alt="Most Used Languages" />
     <br/>
