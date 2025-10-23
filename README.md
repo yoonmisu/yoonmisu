@@ -43,8 +43,6 @@
       <div align="center">
         <p><a href="https://solved.ac/ymisu">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymisu"alt="Solved.ac프로필">
-                &nbsp;&nbsp;
-            <img src="http://mazandi.herokuapp.com/api?handle=ymisu&theme=dark">
         </a></p>
       </div>
     </div>
