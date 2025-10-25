@@ -10,7 +10,7 @@
     </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> # Tech Stack </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> # Tech Stacks </h2>
     <div  align= "center">
           <h3>📖 Studying</h3>
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -22,7 +22,7 @@
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
           </div>
           <div  align= "center">
-          <h3>🛠️ Tool</h3>
+          <h3>🛠️ Tools</h3>
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=Photoshop&logoColor=blue">
           <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=Illustrator&logoColor=orange">
