@@ -1,4 +1,4 @@
-<div align= "left">
+<div align= "center">
     <h1>🌱 Misu's Github </h2>
     </div>
     <div align="left">
