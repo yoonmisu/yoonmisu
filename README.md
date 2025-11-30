@@ -45,8 +45,6 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> # Stats </h2>
     <div align= "center">
     <a href="https://solved.ac/ymisu"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymisu"alt="Solved.ac프로필"></a>
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmisu&layout=compact&theme=dark&custom_theme=%7B%22background%22%3A%22000000%22%2C%22title%22%3A%22e9ffde%22%2C%22text%22%3A%22f3ffea%22%7D"alt="Most Used Languages"/>
     <br/>
     <br/>
     </div>
