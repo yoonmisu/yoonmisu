@@ -2,7 +2,7 @@
     <h1>🌱 Welcome To Misu's Github </h1>
     </div>
         <div align="center">
-        <h3>안녕하세요😊 디자인도 잘하는 프론트엔드 개발자를 꿈꾸는 윤미수입니다!</h3>
+        <h3>안녕하세요, 디자인도 잘하는 프론트엔드 개발자를 꿈꾸는 윤미수입니다!</h3>
         <p>아름다움을 넘어 더 나은 사용자 경험을 위해 고민하는 <b>디자이너 & 프론트엔드 개발자</b>가 되기 위해 공부하고 있습니다</p>
         <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yoonmisu&utm_content=line">
         <img src="https://render.gitanimals.org/lines/yoonmisu" width="600" height="120"/></a>
